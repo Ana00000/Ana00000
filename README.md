@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently researching Clean CaDET.  
-- 🌱 I’m currently learning new courses on Faculty of Technical Sciences (FTN).
-- 📫 How to reach me: ...
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning new courses on Faculty of Technical Sciences.
+- 👯 I’m looking to collaborate on many unique projects.
+- ⚡ Fun fact: always trying new hobbies such as training, dancing, exploring, planting, cooking..
