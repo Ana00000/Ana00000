@@ -4,8 +4,9 @@
 
 - 🔭 I’m a Clean CaDET researcher.  
 - 🌱 Currently learning new courses on Faculty of Technical Sciences.
-- 👯 Looking to collaborate on many new unique projects.
 - ⚡ Fun fact: always trying new hobbies such as training, dancing, exploring, planting, cooking..
+- 👯 Looking to collaborate on many new unique projects.
+- 📫 How to reach me: anaatanackovic98@gmail.com
 
 <br/>
 
