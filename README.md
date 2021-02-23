@@ -1,2 +1,9 @@
 
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> </h2>
+
+
+- 🔭 I’m currently researching Clean CaDET.  
+- 🌱 I’m currently learning new courses on Faculty of Technical Sciences (FTN).
+- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on ...
+- ⚡ Fun fact: ...
