@@ -6,3 +6,6 @@
 - 🌱 I’m currently learning new courses on Faculty of Technical Sciences.
 - 👯 I’m looking to collaborate on many unique projects.
 - ⚡ Fun fact: always trying new hobbies such as training, dancing, exploring, planting, cooking..
+
+
+Programming languages chart -> [check it out](http://ionicabizau.github.io/github-profile-languages/?user=Ana00000)
