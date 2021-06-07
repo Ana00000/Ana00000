@@ -14,4 +14,4 @@ Programming languages chart -> [check it out](http://ionicabizau.github.io/githu
 
 <br/>
 
-<img align="left" width="550" src="https://github-readme-stats.vercel.app/api?username=Ana00000&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues" />
+<img align="left" width="550" src="https://github-readme-stats.vercel.app/api?username=Ana00000&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars" />
