@@ -2,7 +2,6 @@
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> </h2>
 
 
-- 🔭 I’m a Clean CaDET researcher.  
 - 🌱 Currently learning new courses on Faculty of Technical Sciences.
 - ⚡ Fun fact: always trying new hobbies such as training, dancing, exploring, planting, cooking..
 - 👯 Looking to collaborate on many new unique projects.
