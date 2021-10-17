@@ -2,7 +2,8 @@
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"> </h2>
 
 
-- 🌱 Currently learning new courses on Faculty of Technical Sciences.
+- 🔭 I’m a Software Developer.
+- 🌱 Currently working and learning new courses on Faculty of Technical Sciences.
 - ⚡ Fun fact: always trying new hobbies such as training, dancing, exploring, planting, cooking..
 - 👯 Looking to collaborate on many new unique projects.
 - 📫 How to reach me: anaatanackovic98@gmail.com
